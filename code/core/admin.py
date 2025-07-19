@@ -1,5 +1,5 @@
 """
-Django admin customization
+Django admin customization remote change
 """
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
