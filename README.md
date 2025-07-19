@@ -1,2 +1,2 @@
-# recipe-app-api
-Recipe API project
+# mango-proj
+Mango project vanila based on Recipe API project
