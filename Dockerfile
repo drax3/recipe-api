@@ -8,7 +8,7 @@ ENV PYTHONDONTWRITEBYTECODE=1
 
 # Install dependencies using pipenv
 COPY Pipfile Pipfile.lock /code/
-COPY install_deps.sh /install_deps.sh
+COPY ./install_deps.sh /install_deps.sh
 RUN chmod +x /install_deps.sh
 
 # copy the rest application
